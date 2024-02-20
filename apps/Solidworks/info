@@ -8,7 +8,7 @@ FULL_NAME="SOLIDWORKS 2023"
 WIN_EXECUTABLE="C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\SLDWORKS.exe"
 
 # GNOME categories
-CATEGORIES="WinApps;Dassault"
+CATEGORIES="WinApps;Science"
 
 # GNOME mimetypes
 MIME_TYPES=""
