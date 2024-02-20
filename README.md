@@ -1,6 +1,6 @@
 # WinApps for Linux
 
-my edits: adding some apps
+my edits: adding some apps (I don't guarentee they will be stored the same on other systems)
 
 *** Original repo looking for maintainers, see: https://github.com/Fmstrat/winapps/issues/269***
 
