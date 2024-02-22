@@ -5,7 +5,7 @@ NAME="ANSYS"
 FULL_NAME="ANSYS Workbench"
 
 # The executable inside windows
-WIN_EXECUTABLE="C:\Program Files\ANSYS Inc\v232\Framework\bin\Win64" 
+WIN_EXECUTABLE="C:\Program Files\ANSYS Inc\ANSYS Student\v241\Framework\bin\Win64\RunWB2.exe" 
 
 # GNOME categories
 CATEGORIES="WinApps;Science"
