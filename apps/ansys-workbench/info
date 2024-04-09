@@ -1,11 +1,11 @@
 # GNOME shortcut name
-NAME="ANSYS"
+NAME="ANSYS Workebench"
 
 # Used for descriptions and window class
 FULL_NAME="ANSYS Workbench"
 
 # The executable inside windows
-WIN_EXECUTABLE="C:\Program Files\ANSYS Inc\ANSYS Student\v241\Framework\bin\Win64\RunWB2.exe" 
+WIN_EXECUTABLE="C:\Program Files\ANSYS Inc\v232\Framework\bin\Win64\RunWB2.exe"
 
 # GNOME categories
 CATEGORIES="WinApps;Science"
